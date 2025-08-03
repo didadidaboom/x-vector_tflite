@@ -1,0 +1,9 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  tflite_flutter: ^0.10.4
+  flutter_sound: ^9.2.13
+  flutter_sound_processing: ^0.0.4
+assets:
+  - assets/x_vector.tflite
+  - assets/sample.wav
